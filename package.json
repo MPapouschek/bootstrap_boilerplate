@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap_boilerplate",
+  "version": "1.0.0",
+  "description": "webstarter boilerplate for new projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPapouschek/bootstrap_boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MPapouschek/bootstrap_boilerplate/issues"
+  },
+  "homepage": "https://github.com/MPapouschek/bootstrap_boilerplate#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
